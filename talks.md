@@ -1,10 +1,14 @@
-As a feline statistician, I have had the opportunity to present my research at various academic conferences and seminars. Here are some examples of my recent talks:
+I have had the opportunity to present my research at various academic conferences and seminars. Here are some examples of my recent talks:
 
-- Cats vs Dogs: A Statistical Analysis of Pet Ownership
-  - Presented at the Annual Conference of the Society for Applied Statistics, 2022.
+- Comparing Normal and Binary D-Optimal Designs by Statistical Power
+  - Presented at the Joint Statstical Meeting, 2023.
 
-- Meow! Understanding Cat Vocalization with Machine Learning
-  - Presented at the International Conference on Artificial Intelligence, 2021.  
+- Comparing Normal and Binary D-Optimal Designs by Statistical Power
+  - Presented at DATAWorks, 2023.
+    
+- Transforming Post-Secondary Education in Mathematics Conference Panelist Mountain Region Network
+  - Hosted at Utah Valley University, 2018
+    
+- 2x Department of Mathematics Honorary Speaker
+  - Hosted at Utah Valley University, 2019 and 2020
 
-- Bayesian Analysis of Litter Box Behavior in Multi-cat Households
-  - Presented at the Joint Statistical Meetings, 2020. 
