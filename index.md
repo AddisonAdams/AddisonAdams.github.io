@@ -1,6 +1,6 @@
 ---
 title: "Addison Adams"
-logo: AddisonAdams.jpg
+logo: AddisonAdams.png
 description:
 ---
 
