@@ -36,6 +36,7 @@
 - Exam IFM: Investment and Financial Markets
 - Exam PA: Predictive Analytics
 - Exam STAM: Short-term Actuarial Mathematics
+- Exam SRM: Statistics for Risk Managment
 - VEE Economics
 - VEE Mathmetical Statistics
 - VEE Accounting and Finance
