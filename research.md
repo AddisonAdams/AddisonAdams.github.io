@@ -1,15 +1,11 @@
-As a feline statistician, my research interests span a variety of topics related to cat behavior, health, and well-being. Below are some examples of my recent research projects:
+Below are some examples of my current research projects:
 
-## A Bayesian Approach to Modeling Catnip Preference
-
-- This study developed a Bayesian hierarchical model to better understand the individual and environmental factors that influence a cat's preference for catnip. Our results suggest that age, sex, and the presence of other cats in the household are important predictors of catnip preference.
-## DeepCAT: A Deep Learning Framework for Cat Image Classification
-
-- This study proposed a deep learning framework called DeepCAT for automated classification of cat images. Our model achieved state-of-the-art performance on a benchmark dataset, demonstrating the potential of deep learning for cat-related image analysis.
-## Feline Regression Models for Mouse Hunting: A Comparative Study
-
-- This study compared the performance of different regression models in predicting a cat's mouse hunting behavior. Our results showed that a Bayesian regression model with adaptive priors outperformed other models in terms of predictive accuracy.
+## Non-identifiability of Random Coefficient Regression Models and Their Stochastic Inverse Solutions
+- The random coefficient regression model is an extension of the classical linear regression model that accounts for individual variation by treating the regression coefficients as ran- dom variables. A major interest lies in the estimation of the joint distribution of these random coefficients based on the observable output distributions. Existing approaches to random coefficient regression often rely on unverifiable model assumptions that ensure the identifiability of the coefficient distribution. In contrast, we consider fixed-design random coefficient regression, under which the coefficient distribution is not identifiable. In consid- eration of non-identifiability, we formulate the estimation of the coefficient distribution as a stochastic inverse problem (SIP), allowing for a more flexible nonparametric approach with minimal assumptions. An equivalence class of joint distributions is considered in which each element is a solution to the SIP and is thus a plausible estimate of the coefficient distribution. To identify the elements within the desired class, we propose an approach by incorporating an initial guess of a solution called the global ansatz. The global ansatz is updated itera- tively by matching its induced output distributions with the observed data. We show the proposed approach converges and demonstrate its performance through simulation studies. The proposed approach is applied to a real data set from an acupuncture clinical trial.
+## Comparing Binary and Normal D-optimal Designs by Statistical Power
+- In many applications binary response variables are unavoidable.  Many have considered D-optimal design of experiments for generalized linear models.  However, little consideration has been given to assessing how these new designs perform in terms of statistical power for a given hypothesis test.  Monte Carlo simulations and exact power calculations suggest that D‑optimal designs generally yield higher power than binary D-optimal designs, despite using logistic regression in the analysis after data have been collected.  Results from using statistical power to compare designs contradict traditional design of experiments comparisons, which employ D-efficiency ratios and fractional design space plots.  Power calculations suggest that practitioners that are primarily interested in the resulting statistical power of a design should use normal D‑optimal designs over binary D-optimal designs when logistic regression is to be used in the data analysis after data collection.
+## Statistical Analysis of Cameron Peak Fire on Water Chemisty Loads
+- The Cameron Peak Fire was the largest fire in Colorado state history, occuring in 2020. Working with researchers at the Rocky Mountain Research Station, I am using regression with ARIMA errors to estimate to effects of the fire on the chemistry loads in the Cache la Poudre watershed 2021 and 2022.
 
 
-My research has been published in top-tier statistical and computational journals, including the Journal of the American Statistical Association and the Proceedings of the International Conference on Machine Learning. Please refer to my publications page for a complete list of my research articles.
   
