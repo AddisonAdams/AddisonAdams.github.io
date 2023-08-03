@@ -30,5 +30,15 @@
 - STAT 540:	Data Analysis and Regression
 - STAT 684:	Supervised College Teaching
 
+# Soceity of Actuary Exams
+- Exam P: Probability
+- Exam FM: Financial Mathematics
+- Exam IFM: Investment and Financial Markets
+- Exam PA: Predictive Analytics
+- Exam STAM: Short-term Actuarial Mathematics
+- VEE Economics
+- VEE Mathmetical Statistics
+- VEE Accounting and Finance
+
 
 Note: Course offerings are subject to change each semester. Please refer to the official course catalog for the most up-to-date information.
