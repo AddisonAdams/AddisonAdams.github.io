@@ -1,6 +1,6 @@
 ---
-title: "Professor Whiskers"
-logo: catStat.png
+title: "Addison Adams"
+logo: AddisonAdams.jpg
 description:
 ---
 
