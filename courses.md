@@ -30,7 +30,7 @@
 - STAT 540:	Data Analysis and Regression
 - STAT 684:	Supervised College Teaching
 
-# Soceity of Actuary Exams
+# Society of Actuary Exams
 - Exam P: Probability
 - Exam FM: Financial Mathematics
 - Exam IFM: Investment and Financial Markets
