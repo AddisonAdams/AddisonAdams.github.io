@@ -2,4 +2,4 @@ Hello, I'm Addison Adams, a statistician and a fourth year Ph.D. student in the 
 
 https://www.linkedin.com/in/addison-adams-6b9353115/
 
-Email: addison.adams@colostate.edu
+Email: addyduaneadams@gmail.com
