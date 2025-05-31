@@ -40,3 +40,7 @@
 - VEE Economics
 - VEE Mathmetical Statistics
 - VEE Accounting and Finance
+
+# Continuing Education
+- Georgia Tech Research Institute: Basic RF Electromagnetic Warfare Concepts
+- Georgia Tech Research Institute: Basic Radar Concepts
