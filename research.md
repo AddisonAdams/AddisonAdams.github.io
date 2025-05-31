@@ -2,6 +2,14 @@ Below are some examples of my current and past research projects:
 
 ## Dissertation: A Novel Approach to Statistical Problems Without Identifiability
 - https://www.proquest.com/docview/3094176182?parentSessionId=2gQJnbc%2FSsl5arpaQ4Eg2BrREu%2B87ttdOAl4To0Fzzc%3D&sourcetype=Dissertations%20&%20Theses
+## The Effect of Analytic Variation on Empirical Biological Variation Derived Analytic Performance Specifications in the Veterinary Clinical Pathology Laboratory.
+- Background: The empirical biologic variation (EBV) method to derive analytical performance
+specifications (APSs) has been provisionally evaluated for use in the veterinary clinical
+pathology laboratory. Analytical performance can affect EBV APSs. It has been argued that this
+effect is minimal but the effect has not been evaluated for the range of performance found in
+veterinary laboratories.
+- I conducted a Monte Carlo simulation to approximate the sampling distributions of analytical performance speficications (APSs) derived from the empirical biological variation to show the relation between the APSs and the analytical variation used in the EBV method.
+- Currently in peer review.
 ## Off-Highway Vehicle Use Degrades a Mountain Stream: A Case Study Evaluating Recreation Impacts, Restoration Efficacy, and Assessing Vulnerability of Headwater Streams in the Central Rocky Mountains
 - Headwater streams are abundant in mountain landscapes and where municipal watersheds occur on public lands; they co-occur with road networks open to off-highway vehicle (OHV) use. Despite well-known, deleterious interactions of roads and streams, few studies have empirically examined the biophysical impacts of OHV use where backcountry roads enter streams at open-water crossings. We present a case study using a controlled design where we quantified OHV road impacts in a Rocky Mountain stream and evaluated the restoration efficacy by examining aquatic biota and habitat before and after restoration treatments. Prior to restoration, stream habitat structure was simplified and the abundance, biomass, and diversity of aquatic biota were severely reduced in OHV-affected compared to reference reaches. Restoration included the removal of riparian OHV roads, rebuilding streambanks and bedforms, and additions of large wood. Following restoration and 2 years of spring snow-melt runoff, some, but not all, aquatic habitat had recovered, and aquatic biota were more similar to conditions in reference reaches. We included a vulnerability assessment for streams draining ~5 M Ha of public lands in the Rocky Mountains, indicating the greatest threat of similar OHV impacts to 2nd- and 3rd-order streams in watersheds deemed important for municipal supplies. Our study provides insights that may aid in effective prevention approaches and restoration of similar sites.
 - https://onlinelibrary.wiley.com/doi/10.1002/rra.4433
