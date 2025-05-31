@@ -5,3 +5,6 @@ In my free time, I enjoy tennis, reading, learning new skills, and spending time
 https://www.linkedin.com/in/addison-adams-6b9353115/
 
 Email: addyduaneadams@gmail.com
+
+Currently, I work as a research staff member of the Institute for Defense Analysis. 
+https://testscience.org/meet-the-test-science-team/
