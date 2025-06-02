@@ -21,6 +21,14 @@ veterinary laboratories.
 - https://research.testscience.org/researchers/addison-adams/
 ## Statistical Analysis of Cameron Peak Fire Impact on Water Chemisty
 - The Cameron Peak Fire was the largest fire in Colorado state history, occuring in 2020. Working with researchers at the Rocky Mountain Research Station, I used regression with ARIMA errors to estimate the impact of the fire on the water chemistry in the Cache la Poudre watershed for 2021 and 2022.
-
-
+## A Few Highlighted IDA Reports
+-Butler, Lindsey D., Adams, Addison D., Haman, John T., Nobles, Kadie P. and Webber, Thomas R. 2025. Revised Draft Input for the Hard Body Armor Ballistic Test Protocol. IDA Product 3004624.
+- Colci O’Hara, Madalina, Adams, Addison D., Green, Elizabeth A. and Tranfaglia, Joseph C. 2025. Final Review of the SkyTower 
+ II Quick Reaction Assessment Test Plan. IDA Product 3004801.
+- Adams, Addison D. DeBisschop, Kevin M., Green, Elizabeth A., Tranfaglia, Joseph C. and Weber, Paul W. 2025. (U) Test and Evaluation Concept for the Common Tactical Truck (CTT). IDA Product 3002802.
+- Adams, Addison D., Webber, Thomas R. and Weber, Paul W. 2025. Power Analysis of Soldier-in-the-Loop Aim Error Test Plan. IDA Product 3004434.
+- Medlin, Rebecca M. and Adams, Addison D. 2023. JSM 2023: Comparing Normal and Binary D-Optimal Designs by Statistical Power. IDA Product 3000032. 
+- Lefebvre, Jonathan N., Adams, Addison D., Allison, Stacey L., Tranfaglia, Joseph C., Vickers, Brian D. 2025. Test and Evaluation Concept for Future Tactical Uncrewed Aircraft System.
+- Butler, Lindsey D., Adams, Addison D., Brady, Matthew D., Weber, Paul W., Cseko Jr., Andrew, Grandinetti III, Saul A., and Webber, Thomas R. 2025. Next Generation Squad Weapon (NGSW) Lethality Integrated Assessment Test and Evaluation Concept. 
+- Haman, John T., Medlin, Rebecca M., and Adams, Addison D. 2025. Design of Experiments (DOE) for Operational and Live Fire Test Planning.
   
