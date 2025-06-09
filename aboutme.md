@@ -2,7 +2,7 @@ Hello! I'm Addison Adams, a researcher, a statistician, and an avid learner with
 
 In my free time, I enjoy playing tennis, reading, learning new skills, and spending time with family and friends.
 
-[https://www.linkedin.com/in/addison-adams-6b9353115/](https://www.linkedin.com/in/addison-adams-phd-6b9353115/)
+[Addison Adams, PhD LinkedIn](https://www.linkedin.com/in/addison-adams-phd-6b9353115/)
 
 Email: addyduaneadams@gmail.com
 
