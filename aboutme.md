@@ -6,5 +6,6 @@ In my free time, I enjoy playing tennis, reading, learning new skills, and spend
 
 Email: addyduaneadams@gmail.com
 
-Currently, I work as a research staff member of the Institute for Defense Analyses. 
-https://testscience.org/meet-the-test-science-team/
+Currently, I work as a research staff member for the Institute for Defense Analyses. 
+[IDA OED](https://www.ida.org/en/ida-ffrdcs/systems-and-analyses-center/oed)
+[IDA Test Science Team](https://testscience.org/meet-the-test-science-team/)
